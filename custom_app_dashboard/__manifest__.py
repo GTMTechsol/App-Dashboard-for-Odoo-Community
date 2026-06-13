@@ -8,7 +8,7 @@
     'author': 'GTMTechsol.com',
     'maintainer': 'GTMTechsol.com',
     'website': 'https://gtmtechsol.com',
-    'images': ['static/description/dashboard_desktop.png'],
+    'images': ['static/description/banner.png'],
     'depends': ['web'],
     'data': [
         'views/dashboard_views.xml',
