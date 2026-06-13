@@ -4,23 +4,11 @@
     'license': 'LGPL-3',
     'category': 'Tools',
     'summary': 'Modern App Dashboard for Odoo Community',
-    'description': """
-App Dashboard for Odoo Community
-
-A modern dashboard-style application launcher designed for Odoo Community Edition.
-
-Features:
-- Modern application dashboard
-- Responsive design for Desktop, Tablet and Mobile
-- Navbar integration
-- Fast access to installed applications
-- Mobile-friendly interface
-- Lightweight and easy to deploy
-- Odoo Community Edition compatible
-""",
+    'description': 'Enterprise-style App Dashboard for Odoo Community Edition.',
     'author': 'GTMTechsol.com',
     'maintainer': 'GTMTechsol.com',
     'website': 'https://gtmtechsol.com',
+    'images': ['static/description/dashboard_desktop.png'],
     'depends': ['web'],
     'data': [
         'views/dashboard_views.xml',
